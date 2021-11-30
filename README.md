@@ -2,7 +2,7 @@
 
 This extension is inspired by the VS Code Feature Request [#40239](https://github.com/microsoft/vscode/issues/40239)
 
-<!-- ![ext.config.json](https://github.com/muzaisimao/vscode-disable-extensions/blob/main/images/ext-config.png) -->
+<!-- ![ext.config.json](https://raw.githubusercontent.com/muzaisimao/vscode-disable-extensions/main/images/ext-config.png) -->
 
 ## Install
  1. Search in the VS Code extensions: `Disable Extensions`
@@ -26,6 +26,8 @@ This extension is inspired by the VS Code Feature Request [#40239](https://githu
 3. The extension is currently not available for VS Code insiders.
 
 4. Please try to configure `openInNewWindow` to get the best experience
+
+5. Currently does not support opening the workspace
 
 ---
 ## Usage
@@ -67,6 +69,8 @@ This extension is inspired by the VS Code Feature Request [#40239](https://githu
 ## Todo
 
 - [ ] Add support for VS Code insiders
+
+- [ ] Add workspace support
 
 ---
 ## Issues
